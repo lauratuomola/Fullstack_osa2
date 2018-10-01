@@ -1,0 +1,12 @@
+h2 {
+  color: green;
+}
+.message {
+  color: white;
+  background: green;
+  font-size: 15px;
+  border-style: dotted;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
